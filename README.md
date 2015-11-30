@@ -1,5 +1,5 @@
 # Titanium Build for Atom text editor
-Run on iPhone simulator, Android emulator and Android device from atom, more coming soon.
+run on iPhone simulator, Android emulator and Android device from atom, more coming soon.
 
 ![gif](https://raw.githubusercontent.com/HazemKhaled/Titanium-Build/master/screenshoots/build.gif)
 
